@@ -204,4 +204,4 @@ A partir de este momento, se mostrará la pantalla de inicio de la interfaz grá
 
 
 PD. por ahora solo sirve si nos encontramos en una misma red local.
-PD2. si queremos ejecutarlo entre 2 ordenadores, uno de ellos tendrá alojado el server junto a la BD. Por lo que el otro ordenador tendrá que apuntar a su dirección ip, esto quiere decir que, habrá que acceder al archivo api.py y modificar 'localhost' por la IP del ordenador que contenga el servidor.
+PD2. si queremos ejecutarlo entre 2 ordenadores, uno de ellos tendrá alojado el server junto a la BD (importar el archivo BD_esquema en phpmyadmin). Por lo que el otro ordenador tendrá que apuntar a su dirección ip, esto quiere decir que, habrá que acceder al archivo api.py y modificar 'localhost' por la IP del ordenador que contenga el servidor.
